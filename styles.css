@@ -1,0 +1,26 @@
+.card
+{
+    width : 7.6rem;
+    
+}
+
+.card-img-top
+{
+    height: 150px;
+    width: 120px;
+}
+
+#row
+{
+    padding: 50px;
+}
+
+body
+{
+    background-color: #C9E4C5;
+}
+
+.card-body
+{
+    background-color: #C1AC95;
+}
